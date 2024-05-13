@@ -22,8 +22,8 @@ Design the LSTM-based model architecture and Split the dataset into training, va
 Evaluate the trained model using the test set and 
 
 ## PROGRAM
-Reg no :212222240077
-Name : Praveen S
+Reg no :212221220031
+Name : mathavan S
 ```py
 import matplotlib.pyplot as plt
 import pandas as pd
